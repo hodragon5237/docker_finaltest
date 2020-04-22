@@ -2,7 +2,7 @@
 
 Copy the sources to your docker host and build the container, and to run.
 ```
-	docker build --rm -t hodragon5237/docker_finaltest .
+  docker build --rm -t hodragon5237/docker_finaltest .
   docker run -it --name=xx1 hodragon5237/docker_finaltest
   [check!]
   * ifconfig
